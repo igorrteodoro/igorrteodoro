@@ -1,10 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=120&section=header)
+<div align="center">
 
-[![Nome](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=80&lines=Igor+Teodoro)](https://github.com/igorrteodoro)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=100&section=header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
+<a href="https://github.com/igorrteodoro"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&height=60&lines=Igor+Teodoro" /></a>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=igorrteodoro&color=7C3AED&style=for-the-badge&label=VISUALIZAÇÕES)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=igorrteodoro&color=7C3AED&style=for-the-badge&label=VISUALIZAÇÕES" />
+
+</div>
 
 ![Sobre Mim](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=100000&color=A855F7&width=600&height=50&lines=Sobre+Mim+e+Contato&repeat=false&vCenter=true)
 
@@ -29,4 +33,4 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprend
 
 ![snake](https://raw.githubusercontent.com/igorrteodoro/igorrteodoro/output/github-contribution-grid-snake-dark.svg)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=100&section=footer" width="100%" />
