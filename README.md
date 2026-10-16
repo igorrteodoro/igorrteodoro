@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:87CEFA&height=250&section=header&text=Igor%20Teodoro&fontSize=50&animation=twinkling&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=250&section=header&text=Igor%20Teodoro&fontSize=50&animation=twinkling&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=igorrteodoro&color=4169E1&style=for-the-badge&label=VISUALIZAÇÕES)
+![Visitor Badge](https://komarev.com/ghpvc/?username=igorrteodoro&color=7C3AED&style=for-the-badge&label=VISUALIZAÇÕES)
 
 ### 👨‍💻 Sobre Mim & Contato
 
@@ -16,20 +16,15 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprend
 
 [![](https://skillicons.dev/icons?i=java,git,github,mysql&theme=dark&perline=9)](https://skillicons.dev)
 
-### 📚 Meus Estudos
-
-- [ads-2025-java-primeiro-semestre](https://github.com/igorrteodoro/ads-2025-java-primeiro-semestre): exercícios e projetos de Java do 1º semestre de ADS
-- [2-semestre-ADS](https://github.com/igorrteodoro/2-semestre-ADS): projetos do 2º semestre de ADS
-
 ### 📊 Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=igorrteodoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorrteodoro&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/igorrteodoro)
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=igorrteodoro&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorrteodoro&theme=dracula&hide_border=true&background=0D1117)](https://github.com/igorrteodoro)
 
-[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igorrteodoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igorrteodoro&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
 
 ### 🐍 Contribuições
 
-![snake](https://raw.githubusercontent.com/igorrteodoro/igorrteodoro/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/igorrteodoro/igorrteodoro/output/github-contribution-grid-snake-dark.svg)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:87CEFA&height=250&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=250&section=footer)
