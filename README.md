@@ -21,6 +21,7 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprend
 
 - [java-estudos](https://github.com/igorrteodoro/java-estudos): exercícios e projetos do meu aprendizado em Java
 - [sql-estudos](https://github.com/igorrteodoro/sql-estudos): exercícios e consultas do meu aprendizado em SQL
+- [projetos-java](https://github.com/igorrteodoro/projetos-java): projetos que desenvolvi em Java
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=igorrteodoro&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorrteodoro&theme=dracula&hide_border=true&background=0D1117)](https://github.com/igorrteodoro)
