@@ -5,7 +5,7 @@
 
 ![Sobre Mim](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=100000&color=A855F7&width=600&height=50&lines=Sobre+Mim+e+Contato&repeat=false&vCenter=true)
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em **Java** e orientação a objetos.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em **Java** e **SQL**, com base em orientação a objetos e bancos de dados.
 Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprendendo todos os dias e construindo projetos para evoluir na prática.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igortteodoro/)
@@ -16,6 +16,11 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprend
 [![](https://skillicons.dev/icons?i=java,git,github,mysql&theme=dark&perline=9)](https://skillicons.dev)
 
 ![Estatisticas](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=100000&color=A855F7&width=600&height=50&lines=Estatísticas+do+GitHub&repeat=false&vCenter=true)
+
+![Estudos](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=100000&color=A855F7&width=600&height=50&lines=Meus+Estudos&repeat=false&vCenter=true)
+
+- [java-estudos](https://github.com/igorrteodoro/java-estudos): exercícios e projetos do meu aprendizado em Java
+- [sql-estudos](https://github.com/igorrteodoro/sql-estudos): exercícios e consultas do meu aprendizado em SQL
 
 [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=igorrteodoro&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorrteodoro&theme=dracula&hide_border=true&background=0D1117)](https://github.com/igorrteodoro)
