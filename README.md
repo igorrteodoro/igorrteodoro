@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=250&section=header&text=Igor%20Teodoro&fontSize=50&animation=twinkling&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=120&section=header)
+
+[![Nome](https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=80&lines=Igor+Teodoro)](https://github.com/igorrteodoro)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
 
@@ -27,4 +29,4 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprend
 
 ![snake](https://raw.githubusercontent.com/igorrteodoro/igorrteodoro/output/github-contribution-grid-snake-dark.svg)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=250&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:C084FC&height=120&section=footer)
