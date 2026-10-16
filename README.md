@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=igorrteodoro&color=4169E1&style=for-the-badge&label=VISUALIZAÇÕES)
 
 ### 👨‍💻 Sobre Mim & Contato
 
@@ -26,5 +27,9 @@ Estou em busca da minha **primeira oportunidade na área de tecnologia**, aprend
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igorrteodoro&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/igorrteodoro)
 
 [![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=igorrteodoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/igorrteodoro)
+
+### 🐍 Contribuições
+
+![snake](https://raw.githubusercontent.com/igorrteodoro/igorrteodoro/output/github-contribution-grid-snake.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:87CEFA&height=250&section=footer)
