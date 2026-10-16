@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=🚀+Estudante+de+ADS;☕+Aprendendo+Java+todos+os+dias;💻+Construindo+meus+primeiros+projetos)](https://git.io/typing-svg)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=igorrteodoro&color=7C3AED&style=for-the-badge&label=VISUALIZAÇÕES)
 
 ![Sobre Mim](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=100000&color=A855F7&width=600&height=50&lines=Sobre+Mim+e+Contato&repeat=false&vCenter=true)
 
